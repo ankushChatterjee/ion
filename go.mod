@@ -9,7 +9,6 @@ require (
 	github.com/go-redis/redis/v7 v7.4.0
 	github.com/improbable-eng/grpc-web v0.13.0
 	github.com/jhump/protoreflect v1.8.2
-	github.com/nats-io/nats-server/v2 v2.1.9
 	github.com/nats-io/nats.go v1.10.0
 	github.com/pion/ion-avp v1.8.4
 	github.com/pion/ion-log v1.2.0
@@ -22,6 +21,6 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/tj/assert v0.0.3
 	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
-	google.golang.org/grpc v1.36.1
+	google.golang.org/grpc v1.38.0
 	google.golang.org/protobuf v1.26.0
 )
